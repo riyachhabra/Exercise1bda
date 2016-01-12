@@ -1,1 +1,1 @@
-# This is my first R script
+This is my first R script
